@@ -23,19 +23,19 @@
   </head>
   <body>
     <div id="main">
-    	<div class="content-wrap">
-      	<?php
+        <div class="content-wrap">
+          <?php
           include('inc/nav.php');
-        	include('inc/header.php');
-        	include('inc/a-abracce.php');
-        	include('inc/o-que-e.php');
-        	#include('inc/como-ser-heroi.php');
-        	#include('inc/seja-um-heroi.php');
-        	include('inc/os-herois.php');
-        	include('inc/desafio-aceito.php');
+            include('inc/header.php');
+            include('inc/a-abracce.php');
+            include('inc/o-que-e.php');
+            #include('inc/como-ser-heroi.php');
+            #include('inc/seja-um-heroi.php');
+            include('inc/os-herois.php');
+            include('inc/desafio-aceito.php');
         ?>
-    	</div>
-    	<?php include('inc/footer.php'); ?>
+        </div>
+        <?php include('inc/footer.php'); ?>
     </div>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="./assets/js/main.js"></script>
