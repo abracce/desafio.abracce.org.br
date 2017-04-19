@@ -3,4 +3,4 @@
 
 ## License ##
 
-It is free under the [GNU GENERAL PUBLIC LICENSE v3](/LICENSE).
+It is free under the [GNU General Public License v3.0](/LICENSE).
